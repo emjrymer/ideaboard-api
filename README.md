@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Run locally: `rails s -p 3001`
